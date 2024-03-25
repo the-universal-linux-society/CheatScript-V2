@@ -3,6 +3,9 @@ Simplify your Linux journey, with our interactive cheatsheet script. Powered by 
 
 Quickly get essential commands, syntax and other tips for various tools, language, and frameworks.
 
+![cheatsheet](https://github.com/the-universal-linux-society/CheatScript/assets/161962528/3da356b9-d8e4-46f5-beaf-4e9b08497ece)
+
+
 ### Features:
 > Interactive
 
