@@ -29,3 +29,15 @@ Feel free to use, modify and edit the script as you wish.
 If you do experiance any bugs with the script, get in touch for us to fix.
 
 Ensure you have TLDR downloaded on your system prior to running the script!
+
+### Alias:
+We didn't configure it in the script, but you could create an alias for the script within the .bashrc file.
+
+> alias cheat="cd /path/to/script && ./cheat.sh"
+
+The GIF below gives a little demo of it in action. 
+
+Showing how much easier & quicker it is to get access to the cheatsheet.
+
+![cheat-alias](https://github.com/the-universal-linux-society/CheatScript/assets/161962528/2498c1d6-c524-4e01-b864-e058ca302179)
+
