@@ -18,9 +18,8 @@ Quickly get essential commands, syntax and other tips for various tools, languag
 ### Usage:
 1. Clone the repo, or download the script.
 2. chmod +x cheat.sh
-3. sudo apt install tldr
-4. ./cheat.sh
-5. enter the command you want information on.
+3. ./cheat.sh
+4. enter the command you want information on.
 
 ### Notes: 
 This is not part of the TLDR project, for any issues with the TLDR pages, you will need to contact them directly.
@@ -28,8 +27,6 @@ This is not part of the TLDR project, for any issues with the TLDR pages, you wi
 Feel free to use, modify and edit the script as you wish.
 
 If you do experiance any bugs with the script, get in touch for us to fix.
-
-Ensure you have TLDR downloaded on your system prior to running the script!
 
 ### Alias:
 We didn't configure it in the script, but you could create an alias for the script within the .bashrc file.
