@@ -18,8 +18,9 @@ Quickly get essential commands, syntax and other tips for various tools, languag
 ### Usage:
 1. Clone the repo, or download the script.
 2. chmod +x cheat.sh
-3. ./cheat.sh
-4. enter the command you want information on.
+3. sudo apt install tldr
+4. ./cheat.sh
+5. enter the command you want information on.
 
 ### Notes: 
 This is not part of the TLDR project, for any issues with the TLDR pages, you will need to contact them directly.
