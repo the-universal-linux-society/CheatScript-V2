@@ -5,6 +5,7 @@ echo "
 \__|  ||__/--\| __)|  ||__|__ | 
   "
 echo "   The Universal Linux Society"
+sudo apt --no-upgrade install tldr
 while true; do
 echo ""
 read -p "Enter the command you want information on (or type 'quit' to exit) : " user_command
