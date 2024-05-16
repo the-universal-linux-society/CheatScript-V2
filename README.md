@@ -25,7 +25,7 @@ Download manpages in PDF.
 ### Usage:
 1. Clone the repo, or download the script.
 2. chmod +x cheat.sh
-3. ./cheat.sh
+3. ./cheatV2.sh
 
 ### Notes: 
 This is not part of the TLDR project or the man-pages, for any issues with the TLDR pages or man-pages, you will need to contact them directly.
