@@ -1,6 +1,6 @@
 #! /bin/bash
 echo "-------------"
-echo "CHEATSHEET v2"
+echo "CHEATSCRIPT v2"
 echo "-------------"
 echo "https://github.com/the-universal-linux-society"
 sleep 2 
